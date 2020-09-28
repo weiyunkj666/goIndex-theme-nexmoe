@@ -29,8 +29,8 @@ function init() {
 			<a href="/"><img class="avatar" src="https://i.loli.net/2020/04/24/wCxMZFtiv6aKmQ1.png"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
-					<li class="menu_li"><a href="https://5mayrain.github.io/" target="_blank">博客</a></li>
-					<li class="menu_li"><a href="https://drive.google.com/" target="_blank">登陆</a></li>
+					<li class="menu_li"><a href="https://hj.9990202.xyz/" target="_blank">网盘首页</a></li>
+					<li class="menu_li"><a href="https://drive.google.com/" target="_blank">登陆谷歌网盘</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
